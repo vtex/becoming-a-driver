@@ -1,0 +1,9 @@
+.DS_Store
+
+## build.sh output
+radar-charts/images/**
+stairs-chart/stairs-chart.html
+
+## mkdocs build output
+/site/*
+/site/**/*
