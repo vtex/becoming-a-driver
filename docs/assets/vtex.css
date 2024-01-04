@@ -1,0 +1,7 @@
+.md-content {
+    padding-bottom: 200px;
+}
+
+.is-dark {
+    filter: invert(80%);
+}

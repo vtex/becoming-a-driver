@@ -1,0 +1,69 @@
+site_name: Become a Driver
+theme:
+  name: material
+  logo: logo.svg
+  favicon: favicon.ico
+  palette:
+    # light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      toggle:
+        icon: material/brightness-3
+        name: Switch to dark mode
+    # dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      toggle:
+        icon: material/brightness-5
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil-outline
+
+nav:
+  - Home: index.md
+  - Journey: journey.md
+  - Competencies:
+      - competencies/index.md
+      - Plant Tree: competencies/plant-trees.md
+      - Flourish Your Neighborhood: competencies/flourish-your-neighborhood.md
+      - See the Whole Forest: competencies/see-the-whole-forest.md
+  - Career Path:
+      - career-path/index.md
+      - Entry-Level: career-path/l1.md
+      - Mid-Level: career-path/l2.md
+      - Senior: career-path/l3.md
+      - Staff: career-path/l4.md
+      - Senior Staff: career-path/l5.md
+
+plugins:
+  - offline
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+repo_url: https://github.com/vtex/ic-role-guide
+edit_uri: edit/main/docs/
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vtex/ic-role-guide
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/vtex/
+
+extra_css:
+  - assets/vtex.css
+
+extra_javascript:
+  - assets/dark-mode.js
