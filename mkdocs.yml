@@ -38,11 +38,11 @@ nav:
       - See the Whole Forest: competencies/see-the-whole-forest.md
   - Career Path:
       - career-path/index.md
-      - Entry-Level: career-path/l1.md
-      - Mid-Level: career-path/l2.md
-      - Senior: career-path/l3.md
-      - Staff: career-path/l4.md
-      - Senior Staff: career-path/l5.md
+      - Entry-Level (L1): career-path/l1.md
+      - Mid-Level (L2): career-path/l2.md
+      - Senior (L3): career-path/l3.md
+      - Staff (L4): career-path/l4.md
+      - Senior Staff (L5): career-path/l5.md
 
 plugins:
   - offline

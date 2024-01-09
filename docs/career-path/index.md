@@ -10,8 +10,8 @@ Each level will start with a radar chart based on the Engineering Competencies, 
 ??? note
     This document is still under development, so L0 (Intern), L6 (Principal Engineer), and L7 (Senior Principal Engineer) will be defined later.
 
-* [Entry-Level Engineer](l1.md)
-* [Mid-Level Engineer](l2.md)
-* [Senior Engineer](l3.md)
-* [Staff Engineer](l4.md)
-* [Senior Staff Engineer](l5.md)
+* [Entry-Level Engineer (L1)](l1.md)
+* [Mid-Level Engineer (L2)](l2.md)
+* [Senior Engineer (L3)](l3.md)
+* [Staff Engineer (L4)](l4.md)
+* [Senior Staff Engineer (L5)](l5.md)
