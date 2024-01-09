@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Become a Driver Stairs Chart</title>
+        <title>Becoming a Driver Stairs Chart</title>
         <meta content="text/html; charset=utf-8" />
         <style>
             * {

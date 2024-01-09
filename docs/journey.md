@@ -1,4 +1,4 @@
-# Become a driver
+# Becoming a driver
 
 During our journey as a developer, we commonly go through different stages, so there is nothing better than looking back to understand how to support others on this journey.
 
