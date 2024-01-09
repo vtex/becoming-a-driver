@@ -52,13 +52,13 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-repo_url: https://github.com/vtex/ic-role-guide
+repo_url: https://github.com/vtex/becoming-a-driver
 edit_uri: edit/main/docs/
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/vtex/ic-role-guide
+      link: https://github.com/vtex/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/vtex/
 
