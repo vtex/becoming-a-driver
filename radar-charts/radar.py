@@ -46,7 +46,10 @@ def add_trace(fig, level_data, color):
         fill='toself',
         line=dict(color=color, width=2),
         connectgaps=True,
+        name=level_data["Level"],
     ))
+
+    fig.update_layout(font=dict(size=14))
 
 
 def main():
@@ -67,9 +70,11 @@ def main():
         plot_bgcolor='rgba(0,0,0,0)'
     ))
 
+    has_legend = False
     add_trace(fig, level_data, 'pink')
     if args.compare_to != None:
         add_trace(fig, compare_to_data, 'plum')
+        has_legend = True
 
     fig.update_layout(
         polar=dict(
@@ -83,9 +88,9 @@ def main():
                 tickangle=90,  # so that tick labels are not upside down
             )
         ),
-        showlegend=False,
-        width=1235,
-        height=988
+        showlegend=has_legend,
+        width=1000,
+        height=800
     )
 
     # fig.show()
