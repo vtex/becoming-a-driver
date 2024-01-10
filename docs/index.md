@@ -8,7 +8,8 @@ hide:
 
 In the fast-paced world of technology, career growth for software developers is a top priority. To meet this demand, we're introducing our new model, Becoming a Driver, based on four key development stages: Implementer, Solver, Finder, and Driver.
 
-Suppose you are looking for advice or tips on how to improve your ability to drive a car or other vehicle. In that case, this is the wrong place for you. The decision to choose the word "driver" is based on its intentionality; according to the Oxford Dictionary, one of its meanings is "a factor that causes a particular phenomenon to occur or develop".
+!!! info "What a *Driver* means* 
+        Suppose you are looking for advice or tips on improving your ability to drive a car or other vehicle. In that case, this is the wrong place for you. The decision to choose the word **driver** is based on its intentionality; according to the Oxford Dictionary, one of its meanings is "a factor that causes a particular phenomenon to occur or develop".
 
 Our VTEX career model is illustrated in the image below, with columns representing the Become a Driver journey and levels associated with each stage. The lines correspond to Engineering competencies, with a progression bar indicating the expected knowledge at each level. Reaching the solver stage is expected for all ICs, so becoming a finder or driver is not required, but we encourage further development.
 
