@@ -6,29 +6,29 @@ const levels = {
     "l5": "Senior Staff",
 }
 
-// extract page level based on the current path example /career-path/l3/ -> l3
-const currentLevel = document.location.pathname.split('/')[2]
+// extract page level based on the current path
+const currentLevel = document.location.pathname.replace(/\/$/, "").split("/").pop()
 const isALevelPage = levels[currentLevel] != null
 
 const addCompareToAnotherLevelSelector = () => {
     if (isALevelPage) {
         const createOption = (label, compareTo) => {
-            let option = document.createElement('option')
+            let option = document.createElement("option")
             option.innerText = `Compare to ${label}`
             option.dataImage = compareTo != null ? `../assets/${currentLevel}-${compareTo}.png` : `../assets/${currentLevel}.png`
             return option
         }
 
-        const image = document.querySelector('.md-content p img')
+        const image = document.querySelector(".md-content p img")
 
-        const select = document.createElement('select')
-        select.classList.add('md-select')
+        const select = document.createElement("select")
+        select.classList.add("md-select")
         select.onchange = (event) => {
             // get selected option on select element
             const selectedOption = event.target.options[event.target.selectedIndex]
             image.src = selectedOption.dataImage
         }
-        select.appendChild(createOption('...'))
+        select.appendChild(createOption("..."))
 
         for (const [level, name] of Object.entries(levels)) {
             if (level !== currentLevel) {
