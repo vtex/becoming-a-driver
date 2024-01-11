@@ -44,9 +44,6 @@ nav:
       - Staff (L4): career-path/l4.md
       - Senior Staff (L5): career-path/l5.md
 
-plugins:
-  - offline
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -67,3 +64,4 @@ extra_css:
 
 extra_javascript:
   - assets/dark-mode.js
+  - assets/level-comparison.js
