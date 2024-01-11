@@ -3,7 +3,7 @@
 }
 
 .is-dark {
-    filter: invert(80%);
+    filter: invert(100%);
 }
 
 .md-select {
