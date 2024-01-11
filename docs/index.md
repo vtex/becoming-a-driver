@@ -1,5 +1,5 @@
 ---
-allowed_elements: iframe
+allowed_elements: iframe,script
 hide:
 - toc
 ---
@@ -13,7 +13,7 @@ In the fast-paced world of technology, career growth for software developers is 
 
 Our VTEX career model is illustrated in the image below, with columns representing the Become a Driver journey and levels associated with each stage. The lines correspond to Engineering competencies, with a progression bar indicating the expected knowledge at each level. Reaching the solver stage is expected for all ICs, so becoming a finder or driver is not required, but we encourage further development.
 
-<iframe id="stairs-chart" src="stairs-chart.html" width="100%" height="700px" frameBorder="0"></iframe>
+<iframe id="stairs-chart" src="stairs-chart.html" width="100%" height="700px" frameBorder="0"></iframe><script>updateStyles()</script>
 
 Feel free to explore this guide on the best way for you, here are some interesting links:
 
