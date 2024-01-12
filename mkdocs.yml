@@ -44,6 +44,10 @@ nav:
       - Staff (L4): career-path/l4.md
       - Senior Staff (L5): career-path/l5.md
 
+plugins:
+  - search
+  - macros
+
 markdown_extensions:
   - admonition
   - pymdownx.details
