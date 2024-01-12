@@ -8,7 +8,10 @@ Our VTEX career model is illustrated in the image below, with columns representi
 
 _Disclaimer_: L0 (Intern), L6 (Principal Engineer) and L7 (Senior Principal Engineer) will be defined later as this is still under development.
 
-![stairs-chart](stairs-chart.png)
+<picture>
+  <source srcset="stairs-chart-dark.png" media="(prefers-color-scheme: dark)" />
+  <img src="stairs-chart-light.png" alt="A description of the image" />
+</picture>
 
 Feel free to explore this guide on the best way for you, here are interesting starting points:
 
