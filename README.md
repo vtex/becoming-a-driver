@@ -15,6 +15,6 @@ _Disclaimer_: L0 (Intern), L6 (Principal Engineer) and L7 (Senior Principal Engi
 
 Feel free to explore this guide on the best way for you, here are interesting starting points:
 
-* [Becoming a driver journey](https://vtex.github.io/becoming-a-driver/journey.html)
+* [Becoming a driver journey](https://vtex.github.io/becoming-a-driver/journey/)
 * [Engineering Competencies](https://vtex.github.io/becoming-a-driver/competencies/)
 * [Career Path](https://vtex.github.io/becoming-a-driver/career-path/)
