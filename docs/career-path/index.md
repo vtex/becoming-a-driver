@@ -15,3 +15,4 @@ Each level will start with a radar chart based on the Engineering Competencies, 
 * [Senior Engineer (L3)](l3.md)
 * [Staff Engineer (L4)](l4.md)
 * [Senior Staff Engineer (L5)](l5.md)
+* [Skill Acquisition Process](skill-acquisition-process.md)
