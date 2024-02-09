@@ -10,7 +10,14 @@ This document explores each of these competencies in detail, providing insights 
 
 It’s important to emphasize that each person has a unique path, and the application of these pillars may vary according to individual context and needs. Therefore, it encourages you to explore and adapt these concepts to your own journey, finding the balance that best fits your aspirations and goals.
 
-Are you ready to build a solid foundation and reach new heights of success? Let's dive into the fundamental pillars that will propel us toward a thriving and fulfilling career. Let's get started!
+For each competence, we adopt a variation of the [**Five Stages of Acquiring Expertise**](https://www.rebeccawestburns.com/my-blog-3/notes/five-stages-of-acquiring-expertise-novice-to-expert) from the book Mind over machine Dreyfus, H. L., & Dreyfus, S. E. (1986). We adapt to use the following **four stages** 
+
+1. Beginner: 
+2. Competent:
+3. Proficient: 
+4. Expert: 
+
+_Are you ready to build a solid foundation and reach new heights of success?_ Let's dive into the fundamental pillars that will propel us toward a thriving and fulfilling career. Let's get started!
 
 ## Pillars
 
